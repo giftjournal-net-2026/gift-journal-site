@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export function Footer(){return <footer className="footer"><div className="container"><strong>GiftJournal</strong><p>Thoughtful gifts, beautifully curated.</p><small>GiftJournal may earn a commission from qualifying purchases. Product and commercial claims are published only after verification.</small><div className="footer-links"><Link href="/affiliate-disclosure">Affiliate Disclosure</Link><Link href="/blog">Gift Journal</Link><Link href="/seasonal">Seasonal Guides</Link></div></div></footer>}

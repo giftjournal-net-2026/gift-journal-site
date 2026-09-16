@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/1tznpco80q1n7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"christmas-gifts-for-someone-who-has-everything","siblings":["affiliate-disclosure","blog","seasonal"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"YAk0xKF9xpvr3I9Gj8FSu"}

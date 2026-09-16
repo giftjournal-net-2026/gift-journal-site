@@ -1,0 +1,2 @@
+import Image from 'next/image'; import Link from 'next/link'; import type {GiftGuide} from '@/data/gifts';
+export function GiftCard({guide}:{guide:GiftGuide}){return <Link className="guide-card" href={`/${guide.slug}`}><div className="guide-image"><Image src={`/images/${guide.image}`} alt="" fill sizes="(max-width: 800px) 100vw, 33vw" /></div><div className="guide-body"><span>{guide.category}</span><h3>{guide.title}</h3><p>{guide.description}</p><b>Explore guide →</b></div></Link>}
