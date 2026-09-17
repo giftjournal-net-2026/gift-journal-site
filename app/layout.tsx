@@ -11,10 +11,10 @@ export const metadata: Metadata = {
     'Thoughtful gift ideas, carefully curated for every person, occasion and budget.',
 
   icons: {
-    icon: '/icon.svg',
-    shortcut: '/icon.svg',
-    apple: '/icon.svg',
-  },
+  icon: '/favicon.svg',
+  shortcut: '/favicon.svg',
+  apple: '/favicon.svg',
+},
 
   openGraph: {
     siteName: 'GiftJournal',
